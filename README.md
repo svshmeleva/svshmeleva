@@ -1,7 +1,7 @@
 # Hello, I'm Svetlana 👋
 
-### :woman_student: I'm learning to coding on Python with HyperionDev. Here is [link](https://www.hyperiondev.com/portfolio/107607/) to my profile.
-### I'm planning to learn  C++, JavaScript
+### :woman_student: I'm learning to code in Python with HyperionDev. Here is the [link](https://www.hyperiondev.com/portfolio/107607/) to my profile and [LinkedIn](www.linkedin.com/in/svetlana-shmeleva-120521254).
+### I'm planning to learn  C++ and JavaScript as well.
 
 
 <!--
