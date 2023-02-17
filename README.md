@@ -1,6 +1,5 @@
 # Hello, I'm Svetlana 👋
 
-### I am feeling passion into programming.
 ### :woman_student: I'm learning to coding on Python with HyperionDev. Here is [link](https://www.hyperiondev.com/portfolio/107607/) to my profile.
 ### I'm planning to learn  C++, JavaScript
 
