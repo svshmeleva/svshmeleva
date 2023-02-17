@@ -1,4 +1,9 @@
-### Hello, I'm `#0969DA`Svetlana 👋
+# Hello, I'm Svetlana 👋
+
+### I am feeling passion into programming.
+### :woman_student: I'm learning to coding on Python with HyperionDev. Here is [link](https://www.hyperiondev.com/portfolio/107607/) to my profile.
+### I'm planning to learn  C++, JavaScript
+
 
 <!--
 **svshmeleva/svshmeleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
