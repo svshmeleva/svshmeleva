@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm `#0969DA`Svetlana 👋
 
 <!--
 **svshmeleva/svshmeleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
